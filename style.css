@@ -1,0 +1,13 @@
+.hero{
+   background-image: url(./Imagenes/4761-idat.jpg);
+   background-size:cover;
+   color: white;
+}
+.hero h1 {
+    text-align: right;
+}
+.hero p {
+    text-align: left;
+    margin-top: 500px;
+    padding-bottom: 40px;
+}
